@@ -1,1 +1,1 @@
-"""FitBuddy application package."""
+"""AI integration layer for FitBuddy."""
